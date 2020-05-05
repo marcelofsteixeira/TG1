@@ -1,17 +1,18 @@
-**FACULDADE DE TECNOLOGIA DE SÃO JOSÉ DOS CAMPOS
-FATEC PROFESSOR JESSEN VIDAL**
+# TG1 - 5º semestre de BD
 
+ 
 
+Professor da Disciplina: Giuliano Bertoti 
 
-**MARCELO FERNANDO DE SOUZA TEIXEIRA**
+ 
 
+# TG
 
+ 
 
+Aluno: Marcelo Fernando de Souza Teixeira - RA1460281813028 
+Orientador: Giuliano Bertoti 
 
-**SISTEMA PARA AUXILIO NA ALFABETIZAÇÃO COM MACHINE LEARNING**
+ 
 
-
-
-São José dos Campos
-2020 
-
+Título do TG: Sistema para Auxílio na Alfabetização com Machine Learning
